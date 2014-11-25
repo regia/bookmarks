@@ -1,0 +1,46 @@
+{
+category1:{
+    bookmark1:{
+        title:"asdasdf",
+        note: "",
+        description:"asdasd",
+        link:"http://sdfsdff"
+    }
+    bookmark2:{
+        title:"asdasdf",
+        note: "",
+        description:"asdasd",
+        link:"http://sdfsdff"
+    }
+}
+category2:{
+    bookmark1:{
+            title:"asdasdf",
+            note: "",
+            description:"asdasd",
+            link:"http://sdfsdff"
+        }
+    bookmark2:{
+        title:"asdasdf",
+        note: "",
+        description:"asdasd",
+        link:"http://sdfsdff"
+    }
+}
+
+uncategoried:{
+    bookmark1:{
+            title:"asdasdf",
+            note: "",
+            description:"asdasd",
+            link:"http://sdfsdff"
+        }
+    bookmark2:{
+        title:"asdasdf",
+        note: "",
+        description:"asdasd",
+        link:"http://sdfsdff"
+    }
+}
+
+}
