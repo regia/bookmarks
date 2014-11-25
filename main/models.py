@@ -1,3 +1,7 @@
 from django.db import models
+import jsonfield
 
-# Create your models here.
+
+class Bookmark(models.Model):
+    #owner
+    bookmarks_json = jsonfield.JSONField()
